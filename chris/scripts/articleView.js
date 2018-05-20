@@ -95,7 +95,7 @@ articleView.initNewArticlePage = () => {
 };
 
 
-};
+
 
 articleView.create = () => {
   // DONE: Set up a variable to hold the new article we are creating.
